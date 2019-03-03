@@ -5,14 +5,14 @@ Kyrgyzstan, Bishkek.
 
 <a href="mailto:igorsamartsev@gmail.com" title="E-mail">igorsamartsev@gmail.com</a> 
 
-##Summary
+## Summary
 Hello.  
 My name is Igor.  
 I teach web coding in my city. I have more than 30 people studying offline.
 
 My goal is to become a professional front-end developer and be in demand on the market. I really like what I do. I am willing to learn a lot and make myself better.
 
-##Skills
+## Skills
 
 - HTML
 - CSS
@@ -79,20 +79,20 @@ module.exports = function makeExchange(currency) {
 }
 ```
 
-##Experience
+## Experience
 I worked as a web programmer at Sibers. Orders were from America, Canada and Australia. A little earlier, I worked on Russian freelancing for three years.
 
 I am a website coding trainer, and therefore I improve every day. Great teaching experience.
 
 Now I am actively studying react and redux.
 
-##Education
+## Education
 Incomplete higher education in software engineering.
 HTML Academy Html, Css
 CodeCademy - Html, Css
 Stepik - Python
 Loftschool - Js course
-##My english
+## My english
 
 I can read the documentation and can understand and use frequently-used everyday expressions as well as simple phrases to meet immediate needs.
 March 4th I start offline English courses.
